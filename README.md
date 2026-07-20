@@ -6,6 +6,6 @@
 
 ### Hi, I'm Junwei Hu
 
-> CS student @ HKUST · exploring how language models *retrieve, reason, and reflect*.
-> = =
+> CS student @ HKUST ·
+> ALL IN LLM
 
