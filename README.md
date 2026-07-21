@@ -7,5 +7,5 @@
 ### Hi, I'm Junwei Hu
 
 > CS student @ HKUST ·
-> ALL IN LLM
+> ALL IN LLM.
 
